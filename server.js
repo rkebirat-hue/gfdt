@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://wwbellbusiness.vercel.app',
   'https://webbellb.netlify.app',
-  'https://bbell.netlify.app',
+  'https://webbbell.netlify.app',
   'https://mybellca.vercel.app',
   'https://wwbellcanada.vercel.app',
   'https://bellbizcaenca.vercel.app',
