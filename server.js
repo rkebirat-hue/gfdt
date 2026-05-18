@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://businessb-bell.netlify.app',
   'https://bellwebmailb.netlify.app',
   'https://mybellca.vercel.app',
-  'https://webmailbill.netlify.app',
+  'https://businesse-bell.netlify.app',
   'https://bellbizcaenca.vercel.app',
   'https://bellenbusiness.vercel.app',
   'https://bellofficialca.vercel.app',
